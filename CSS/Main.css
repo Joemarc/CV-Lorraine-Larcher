@@ -1,0 +1,194 @@
+.titre {
+	display: inline-block;
+	font-size:30px;
+	font-weight:bold;
+	background-color: rgb(244, 66, 104);
+	border: 4px black double;
+	border-radius: 10px;
+	text-align: center;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 5px;
+}
+body {
+	font-family:arial;
+	text-align:justify;
+	font-size:20px;
+	background-image: url("../Images/Arrière plan.jpg");
+	background-size: 2500px;
+}
+a {
+	text-decoration:none;
+	color: black;
+	left: 10px;
+}
+a:hover {
+	color: rgb(244, 66, 104);
+	text-decoration: none;
+}
+.center {
+	text-align: center;
+}
+.photoaccueil {
+	position:relative;
+	right: 45px;
+}
+.domaine {
+	display: inline-block;
+	font-size: 25px
+	font-weight:bold;
+	background-color: rgb(244, 66, 104);
+	border: 4px black double;
+	border-radius: 10px;
+	text-align: center;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 5px;
+}
+.logo {
+	margin-top: 30px;
+}
+.âge {
+	background: white;
+	width: 110px;
+	height: 110px;
+	border-radius: 50%;
+	border: 6px black solid;
+	position: relative;
+	top: 5px;
+	left: 365px;
+}
+.région {
+	background: white;
+	width: 140px;
+	height: 140px;
+	border-radius: 50%;
+	border: 6px black solid;
+	position: relative;
+	top: 10px;
+	left: 200px;
+}
+.rigoureuse {
+	background: white;
+	width: 140px;
+	height: 125px;
+	border-radius: 50%;
+	border: 6px black solid;
+	position: absolute;
+	bottom: 100px;
+	left: 900px;
+}
+.curieuse {
+	background: white;
+	width: 140px;
+	height: 125px;
+	border-radius: 50%;
+	border: 6px black solid;
+	position: absolute;
+	top: 180px;
+	left: 1075px;
+}
+.investie {
+	background: white;
+	width: 140px;
+	height: 125px;
+	border-radius: 50%;
+	border: 6px black solid;
+	position: absolute;
+	bottom: 120px;
+	left: 1200px;
+}
+.études {
+	background: white;
+	width: 160px;
+	height: 160px;
+	border-radius: 50%;
+	border: 6px black solid;
+	position: absolute;
+	bottom: 130px;
+	left: 70px;
+}
+span {
+	position:absolute;
+	top: 35px;
+	left: 15px;
+	color: rgb(244, 66, 104);
+	font-weight: bold;
+}
+ul {
+	display:inline-block;
+}
+.anglais {
+	background: rgb(173, 176,181);
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border: 6px grey solid;
+	position: absolute;
+	top: 1px;
+	left: 150px;
+}
+.espagnol {
+	background: rgb(173, 176,181);
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border: 6px grey solid;
+	position: absolute;
+	top: 300px;
+	left: 1100px;
+}
+.tennis {
+	border-radius: 50%;
+	position: absolute;
+	top: 395px;
+	left: 50px;
+}
+.voyager {
+	border-radius: 50%;
+	position: absolute;
+	top: 325px;
+	left: 500px;
+}
+.expositions {
+	border-radius: 50%;
+	position: absolute;
+	top: 450px;
+	left: 950px;
+}
+.cuisine {
+	border-radius: 50%;
+	position: absolute;
+	top: 150px;
+	left: 850px;
+}
+.cinéma {
+	border-radius: 50%;
+	position: absolute;
+	top: 150px;
+	left: 150px;
+}
+.menu {
+	position:absolute;
+	left: 10px;
+	top: 10px;
+}
+h2 {
+	color: rgb(244, 66, 104);
+}
+.presentation {
+	position:absolute;
+	left: 10px;
+	top: 530px;
+}
+.contact {
+	position:absolute;
+	left: 10px;
+	top: 1220px;
+}
+.univers {
+	position:absolute;
+	left: 10px;
+}
